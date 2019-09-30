@@ -1,0 +1,24 @@
+# Assignment 2 - RMarkdown
+## Burcu Demir
+
+Glad to introduce myself as as Miss. Burcu Demirgulle. I have done secondary school at Uskudar Science High School in 2008. Conviction and natural aptitude for science and mathematics convinced me manufacturing and industrial engineering was the most fitting career for me. This belief that the education is most valuable thing for me to gain a statu in a community. It continues to be the driving forces in my pursuit of academic excellence as a senior at the Sabanci University. I desire a degree in industrial engineering not only because it is the most fulfilling way I can exercise my natural talents as a scholar, but because it also gives me the opportunity to solve challenges directly impacting my community.
+
+For detailed information: [My Profile](https://www.linkedin.com/in/burcudemirgulle/)
+
+## 1-Find the best locations for facilities using the maximal covering location problem
+
+The maximal covering location problem (MCLP) can help the answers of these two questions Want better wifi at the office? Improved access to healthcare?
+The R package maxcovr provides a set of tools to perform, summarise, and visualise the MCLP, so that you can move on with your analysis, place better cellphone towers, and create better access to health facilities.
+
+[Access Easily](https://www.youtube.com/watch?v=sA8ItKmdwjM)
+
+## 2-Using machine learning methods and R to classify facial image data for plastic surgery
+Decision trees identified that the geometry of a mouth, eyebrows and eyes, respectively, affect in descending order an intensity of a classified emotion.machine-learning analyses are using to point out which facial emotions and their geometry affect facial attractiveness the most, and therefore should preferentially be addressed within plastic surgeries.
+
+[Classify Facial Image](https://www.youtube.com/watch?v=In72BgAXtKE)
+
+## 3-Summarize my Foursquare Swarm check-ins
+
+For this little experiment, He used the Swarm data gathered during his six days in the Lion City to visualize the places and areas he visited. Moreover, besides just visualizing the locations, he explored the dataset to find out the dominant category of the spots He visited, and the distribution of check-ins over time.
+
+[Swarm Check-Ins](https://towardsdatascience.com/using-python-and-r-to-visualize-and-summarize-my-foursquares-swarm-check-ins-20805f92faee)
