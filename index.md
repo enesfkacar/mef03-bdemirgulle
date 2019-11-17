@@ -5,4 +5,4 @@
 
 
 ### Week 4 
-[Assignment 3: BKM Assignment](BKM_Assignment.html.html)
+[Assignment 3: BKM Assignment](BKM_Assignment.html)
