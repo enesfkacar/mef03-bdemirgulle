@@ -5,4 +5,4 @@
 
 
 ### Week 4 
-[Assignment 3: BKM Assignment](file:///C:/Users/bdemi/Documents/mef03-bdemirgulle/BKM_Assignment.html)
+[Assignment 3: BKM Assignment](BKM_Assignment.html.html)
