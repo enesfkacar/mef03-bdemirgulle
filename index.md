@@ -2,3 +2,7 @@
 
 ### Week 2 
 [Assignment 2: RMarkdown Assignment](Assignment_Week2.html)
+
+
+### Week 4 
+[Assignment 3: BKM Assignment](file:///C:/Users/bdemi/Documents/mef03-bdemirgulle/BKM_Assignment.html)
